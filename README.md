@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=OLÁ,+SEJA+BEM-VINDO!;ME+CHAMO+ISAQUE+PERES" />
 </p>
 
-<br>
+<hr>
 
 ###
 
